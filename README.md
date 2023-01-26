@@ -26,11 +26,11 @@
 <br/>
 <br/>
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHuynSuk&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=8"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrightSton&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=8"/>
 
 <br/>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHuynSuk&show_icons=true&theme=tokyonight) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrightSton&show_icons=true&theme=tokyonight) 
  
 ![footer](https://capsule-render.vercel.app/api?type=transparent&fontColor=191970&text=Thank%20You%20For%20Coming&height=150&fontSize=60&desc=See%20You%20Next%20Time!&descAlignY=75&descAlign=73)
