@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Blue%20Bear&fontSize=90&animation=fadeIn&fontAlignY=38&fontcolor=white&desc=Trying%20To%20Get%20Better%20Code&descAlignY=51&descAlign=59)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Bright%20Ston&fontSize=90&animation=fadeIn&fontAlignY=38&fontcolor=white&desc=Trying%20To%20Get%20Better%20Code&descAlignY=51&descAlign=59)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
