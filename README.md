@@ -10,6 +10,10 @@
    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
    <img src="https://img.shields.io/badge/Redux - 764ABC?style=for-the-badge&logo=react-router&logoColor=white">
   
+<br/>
+ <img src="https://img.shields.io/badge/Redux Toolkit-CA4245?style=for-the-badge&logo=React-Router-Dom&logoColor=white">
+ <img src="https://img.shields.io/badge/Recoil-f26b00?style=for-the-badge&logo=">
+ <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
 
 <br/>
    <img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
